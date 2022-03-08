@@ -5,7 +5,8 @@ This website is a refactoring of a website used through html and css.
 **************************************
 [Horiseon Website](https://bsmith675.github.io/Horiseon-Code-Refactor-/)
 **************************************
-![Preview of Horiseon Website](/Users/bensmith/Documents/GT Home Work/Horiseon-Code-Refactor-/Develop/assets/images/Screenshot 2022-03-07 at 11.19.45 PM.png)
+<img width="403" alt="Screenshot 2022-03-07 at 11 56 05 PM" src="https://user-images.githubusercontent.com/98413163/157169505-86df47e4-0a46-4771-8307-a076db2f197b.png">
+
 **************************************
 
 **Mission**
