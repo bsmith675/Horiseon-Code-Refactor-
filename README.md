@@ -11,7 +11,7 @@ This website is a refactoring of a website used through html and css.
 
 **Mission**
 
-The mission was to provide a website that meets accessibility standards through the       implementation of semantic HTML elements, elements follow logical structure, accessible alt attributes, heading attributes in sequential order, and a title element that is concise and descriptive. 
+The mission was to provide a website that meets accessibility standards through the       implementation of semantic HTML elements, elements following logical structure, accessible alt attributes, heading attributes in sequential order, and a title element that is concise and descriptive. 
 
 **HTML**
 
