@@ -16,7 +16,7 @@ The mission was to provide a website that meets accessibility standards through 
 **HTML**
 
 - Modified the html to have accessible alt tags
-- Modified the html to show name and page in a clear fasion
+- Modified the html to show name and page in a clear fashion
 
 
 **CSS**
